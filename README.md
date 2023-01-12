@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @muhammedEssa
-- 👀 I’m interested in Machine Learning, DeepLearning, Data Science, Embedded Systems
-- 🌱 I’m currently learning AI fields in ITI 
+- 👋 Hi, I’m Mohammed Abd-Elnaser
+-  I’m  Machine|Deep Learning Engineer at Stackzy. graduated From ITI AI-pro 9 month program.
+-  I’m currently Data Science Pre-master's student at Cairo University.
 
 <!---
 muhammedAbulnaser/muhammedAbulnaser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
