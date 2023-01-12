@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Abd-Elnaser
--  I’m  Machine|Deep Learning Engineer at Stackzy. graduated From ITI AI-pro 9 month program.
+-  I’m  Machine | Deep Learning Engineer at Stackzy. graduated From ITI AI-pro 9 month program.
 -  I’m currently Data Science Pre-master's student at Cairo University.
 
 <!---
