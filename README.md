@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Abd-Elnaser
--  Machine | Deep Learning Engineer at Stackzy.
+-  Machine | Deep Learning Engineer at lumin soft.
 -  Graduated From ITI AI-pro 9 month program.
 -  Currently Data Science Pre-master's student at Cairo University.
 
